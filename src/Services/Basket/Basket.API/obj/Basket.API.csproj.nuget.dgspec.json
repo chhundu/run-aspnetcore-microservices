@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
+  },
+  "projects": {
+    "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "projectName": "EventBus.Messages",
+        "projectPath": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\ePIS\\Micro Service\\NRDCL_Project\\packages": {},
+          "F:\\ePIS\\Micro Service\\Projects\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "projectName": "Basket.API",
+        "projectPath": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\Services\\Basket\\Basket.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\ePIS\\Micro Service\\NRDCL_Project\\packages": {},
+          "F:\\ePIS\\Micro Service\\Projects\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+                "projectPath": "f:\\ePIS\\Udemy\\AspnetMicroservices-main\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.36.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.1.6, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.6, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.1.6, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

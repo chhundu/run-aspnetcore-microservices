@@ -1,0 +1,12 @@
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\ref\Ordering.Domain.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csprojAssemblyReference.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb

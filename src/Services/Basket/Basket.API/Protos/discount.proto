@@ -1,0 +1,43 @@
+//whaich syntax we going to use. In this case we are using porto3 version 
+syntax = "proto3"; 
+
+//it is optional. generate csharp name space with Discount.Grpc.portos name space
+option csharp_namespace = "Discount.Grpc.portos";
+
+//Its is the discount GRPC service
+service DiscountProtoService {
+    //rpc:: remote procedure call
+    //GRPC discount service
+    rpc GetDiscount (GetDiscountRequest) returns (CouponModel);
+    rpc CreateDiscount (CreateDiscountRequest) returns (CouponModel);
+    rpc UpdateDiscount (UpdateDiscountRequest) returns (CouponModel);
+    rpc DeleteDiscount (DeleteDiscountRequest) returns (DeleteDiscountResponse);
+
+}
+
+message GetDiscountRequest{
+    string productName = 1;
+}
+
+message CouponModel {
+	int32 id = 1;
+	string productName = 2;
+	string description = 3;
+	int32 amount = 4;
+}
+
+message CreateDiscountRequest {
+	CouponModel coupon = 1;
+}
+
+message UpdateDiscountRequest {
+	CouponModel coupon = 1;
+}
+
+message DeleteDiscountRequest {
+	string productName = 1;
+}
+
+message DeleteDiscountResponse {
+	bool success = 1;
+}

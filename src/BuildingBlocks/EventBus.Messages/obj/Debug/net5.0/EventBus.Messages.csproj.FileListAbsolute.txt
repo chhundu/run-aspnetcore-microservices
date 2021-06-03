@@ -1,0 +1,12 @@
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csprojAssemblyReference.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+F:\ePIS\Udemy\AspnetMicroservices-main\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
